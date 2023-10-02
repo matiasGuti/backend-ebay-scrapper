@@ -16,5 +16,8 @@
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "stopwords-es": "^0.3.0"
+  },
+  "engines": {
+    "node": ">=14.20.1"
   }
 }
