@@ -1,1 +1,4 @@
 node_modules
+
+# Para solucionar error de puppeteer en render.com
+.cache

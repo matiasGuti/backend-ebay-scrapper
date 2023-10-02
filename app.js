@@ -8,7 +8,7 @@ const {
 
 const app = express();
 
-app.listen(3000, console.log('SERVER ON'));
+app.listen(3001, console.log('SERVER ON'));
 
 app.use(express.json());
 
